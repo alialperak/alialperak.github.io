@@ -43,3 +43,43 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* Home page styling */
+.home-intro {
+  margin-bottom: 40px;
+  padding: 25px;
+  border-radius: 8px;
+}
+
+.home-intro h2 {
+  margin-bottom: 20px;
+}
+
+/* Archive page styling */
+.archive-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.archive-tag {
+  flex: 1 1 300px;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.archive-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.archive-list li {
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+}
+
+.archive-list li:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}

@@ -4,7 +4,7 @@ description: "Journey of PlatformOps." # This will show up in places like twitte
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
+# email: "example@mail.com"
 twitter_username: "alialperak"
 github_username: "alialperak"
 linkedin_username: "alialperak"
